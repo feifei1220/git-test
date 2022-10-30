@@ -10,7 +10,7 @@ public class GitTest {
 
         System.out.println("woshishei!");
 
-        System.out.println("hot-fix!");
+        System.out.println("master! test!");
 
     }
 
